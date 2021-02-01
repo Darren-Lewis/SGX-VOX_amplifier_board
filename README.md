@@ -1,8 +1,9 @@
 # SGX-VOX_amplifier_board
 
-This repo contains 2 folders:
-1. called "Oxygen sensor PCB V1.21" contains the PCB manufacture files
-2. called "Oxygen_sensor_amp_PCB_SGX-VOX_Darren_Lewis" contains the Arduino code
+This repo contains 3 folders:
+1. called "Oxygen sensor PCB V1.21" which contains the PCB manufacture files
+2. called "Oxygen_sensor_amp_PCB_SGX-VOX_Darren_Lewis" which contains the Arduino code
+3. called "SGX-VOX oxygen sensor datasheets" which contains datasheets for the SGX-VOX oxygen sensor
 
 JLC PCB is a great site for getting boards made cheaply.
 
